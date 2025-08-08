@@ -2,25 +2,25 @@
 
 h1 {
   font-size: 40px;
-  font-family: Arial
+  font-family: Arial;
 }
 h2 {
   font-size: 25px;
-  font-family: Arial
+  font-family: Arial;
 }
 h3 {
-  font-family: Arial
+  font-family: Arial;
 }
 p {
   font-size: 14px;
-  font-family: Arial
+  font-family: Arial;
 }
-th, td {
- padding: 8px;
- text-align: left;
- border-bottom: 1px solid #ddd;
- font-family: Arial
+
+/* Header style (UI Designer task) */
+.header {
+  background-color: darkcyan; /* later change to blue for final step */
+  text-align: right;
 }
-tr:nth-child(odd) {background-color: #f2f2f2;}
+
 
 
