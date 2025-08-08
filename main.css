@@ -18,9 +18,11 @@ p {
 
 /* Header style (UI Designer task) */
 .header {
-  background-color: darkcyan; /* later change to blue for final step */
+  background-color: blue; /* final step change */
   text-align: right;
 }
+
+
 
 
 
