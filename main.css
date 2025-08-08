@@ -15,12 +15,11 @@ p {
   font-size: 14px;
   font-family: Arial;
 }
-
-/* Header style (UI Designer task) */
-.header {
-  background-color: blue; /* final step change */
-  text-align: right;
+div{
+    background-color: darkcyan;
+    text-align: right;
 }
+
 
 
 
